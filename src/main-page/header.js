@@ -6,9 +6,6 @@ const Header = ({subtitle, title}) => (
             <img src={logo} className='logo' alt="logo" />
         </div>
         <div className='col-md-7 mt-5 subtitle'>
-            <p>            {title}
-</p>
-
             {subtitle}
         </div>
     </header>

@@ -1,5 +1,4 @@
 import React from 'react';
-import { useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './main-page';

@@ -1,22 +1,22 @@
-{
+[{
     "id": "1",
     "address": "12 Valley Road",
     "country": "United States",
     "description": "A nice bed setter",
     "price": "100000",
     "photo": "https://unsplash.com/photos/MAnVoJlQUvg"
-} {
+}, {
     "id": "2",
     "address": "Kings Road",
     "country": "United States",
     "description": "A nice sq",
     "price": "500000",
     "photo": "https://unsplash.com/photos/Cn87TISYij8"
-} {
+}, {
     "id": "3",
     "address": "19 West California Street",
     "country": "United States",
     "description": "A nice bungalow",
     "price": "400000",
     "photo": "https://unsplash.com/photos/A8W70m5jv_k"
-}
+}]
